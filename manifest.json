@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Bliss",
+  "version": "1.0.0",
+  "description": "Websites are better with gradients.",
+  "minimum_chrome_version": "68",
+  "content_scripts": [{
+    "matches": [
+      "http://*/*",
+      "https://*/*"
+    ],
+    "js": [
+      "app.js"
+    ]
+  }]
+}
