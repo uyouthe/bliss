@@ -1,4 +1,4 @@
-# 👩 Bliss
+# 👩 Bliss [![Become a patron](https://miloslav.website/patreon.svg)](https://www.patreon.com/uyouthe)
 Websites are better with gradients.
 
 ![Gradient waves gif](https://cdn.jsdelivr.net/gh/uyouthe/bliss/media/cover.gif)  
